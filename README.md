@@ -1,5 +1,5 @@
 ## 🚀 Sobre mim
-Olá, seja Bem vindo!
+Olá, seja Bem vindo! </br>
 Eu sou Mizael Miguel 👋🏾
 📚Estudante de Análise e Desenvolvimento de Sistemas.
 📫E-mail para contato: mizaelmiguel246@gmail.com.
