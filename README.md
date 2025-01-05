@@ -7,9 +7,8 @@ Eu sou Mizael Miguel 👋🏾</br>
 ## 👨🏾‍💻 Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mizaelmiguels/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mizael.mrs/) 
 
-![Mizael GitHub stats](https://github-readme-stats.vercel.app/api?username=mimipub&show_icons=true&theme=dark)
-
 ### Tecnologias
+![Mizael GitHub stats](https://github-readme-stats.vercel.app/api?username=mimipub&show_icons=true&theme=dark)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,eclipse,java,postgresql,postman)](https://skillicons.dev)
 
