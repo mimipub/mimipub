@@ -1,7 +1,7 @@
 ## 🚀 Sobre mim
 Olá, seja Bem vindo! </br>
-Eu sou Mizael Miguel 👋🏾
-📚Estudante de Análise e Desenvolvimento de Sistemas.
+Eu sou Mizael Miguel 👋🏾</br>
+📚Estudante de Análise e Desenvolvimento de Sistemas.</br>
 📫E-mail para contato: mizaelmiguel246@gmail.com.
 
 ## 👨🏾‍💻 Redes Sociais
