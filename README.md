@@ -10,6 +10,6 @@ Eu sou Mizael Miguel 👋🏾</br>
 ### Tecnologias
 ![Mizael GitHub stats](https://github-readme-stats.vercel.app/api?username=mimipub&show_icons=true&theme=dark)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,eclipse,java,postgresql,postman,intellij)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,eclipse,java,postgresql,postman,intellij,maven,springboot)](https://skillicons.dev)
 
 Apaixonado por tercnologia e isso que me faz buscar novas oportunidades de aprendizado.
