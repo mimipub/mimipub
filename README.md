@@ -1,7 +1,7 @@
 ## Mizael Miguel
 Olá, seja Bem vindo! </br>
 Eu sou Mizael Miguel 👋🏾</br>
-📚recem formado em análise e desenvolvimento de sistenas</br>
+📚Recém formado em análise e desenvolvimento de sistenas</br>
 📫E-mail para contato: mizaelmiguel246@gmail.com.
 
 ## 👨🏾‍💻 Redes Sociais
@@ -10,6 +10,6 @@ Eu sou Mizael Miguel 👋🏾</br>
 ### Tecnologias
 ![Mizael GitHub stats](https://github-readme-stats.vercel.app/api?username=mimipub&show_icons=true&theme=dark)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,postgresql,mysql,git,postman,intellij,maven,docker,spring,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,java,postgresql,mysql,git,postman,intellij,maven,spring,docker,)](https://skillicons.dev)
 
 Apaixonado por tercnologia e isso que me faz buscar novas oportunidades de aprendizado.
